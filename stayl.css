@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.dsa{
+    position: absolute;
+    top: 510;
+    left: 282px;
+    justify-content: space-between;
+}
+
+.cal{
+    background: #F5F5F5;
+}
+
+.master{
+    background: #F5F5F5;
+}
+
+.big{
+    background: #F5F5F5;
+}
+
+.goe{
+    position: absolute;
+    left: 500px;
+}
+
+.hyt{
+    background: #20003C;
+    color: white;
+}
